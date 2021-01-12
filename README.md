@@ -1,2 +1,2 @@
 # static-website-client
-Made for a client who was a contractor and wanted to start selling there own product to customers
+Made for a client who owns a renovation company and wanted to start selling there own flooring products to customers
